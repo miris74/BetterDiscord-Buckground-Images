@@ -3,11 +3,23 @@
     "name": "Mejiro",
     "previewText": "M+ OUTLINE FONTS と Roboto を合成した日本語フォントですわ",
     "main": {
-        "Mejiro-Bold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Bold.ttf?raw=1",
-        "Mejiro-ExtraBold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Extrabold.ttf",
-        "Mejiro-Regular": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Regular.ttf",
-        "Mejiro-SemiBold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Semibold.ttf",
-        "Mejiro-Light": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Light.ttf",
-        "Mejiro-Thin": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Thin.ttf"
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Extrabold.ttf",
+        "ggsans-Bold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Bold.ttf?raw=1",
+        "ggsans-ExtraBold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Extrabold.ttf",
+        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Extrabold.ttf",
+        "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Evolve-Sans-EVO/Evolve-Sans-EVO-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Regular.ttf",
+        "ggsans-Normal": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Regular.ttf",
+        "ggsans-NormalItalic": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Light.ttf",
+        "ggsans-Semibold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Semibold.ttf",
+        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Semibold.ttf",
+        "NotoSans-Bold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Extrabold.ttf",
+        "NotoSans-Medium": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Light.ttf",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Regular.ttf",
+        "NotoSans-NormalItalic": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Light.ttf",
+        "NotoSans-Semibold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Semibold.ttf",
+        "ggmono-Normal": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Semibold.ttf"
     }
 }
