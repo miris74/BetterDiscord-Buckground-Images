@@ -5,13 +5,9 @@
     "main": {
         "Mejiro-Bold": "https://raw.githubusercontent.com/AndroPlus-org/Mejiro/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Bold.ttf?raw=1",
         "Mejiro-ExtraBold": "https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Extrabold.ttf?raw=1",
-　　"Mejiro-Regular":
-"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Regular.ttf?raw=1",
-　　"Mejiro-SemiBold":
-"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Semibold.ttf?raw=1",
-　　"Mejiro-Light":
-"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Light.ttf?raw=1",
-　　"Mejiro-Thin":
-"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Thin.ttf?raw=1"
-　　｝
-｝
+　　"Mejiro-Regular":"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Regular.ttf?raw=1",
+　　"Mejiro-SemiBold":"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Semibold.ttf?raw=1",
+　　"Mejiro-Light":"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Light.ttf?raw=1",
+　　"Mejiro-Thin":"https://github.com/AndroPlus-org/Mejiro/raw/ff71a1bb256fa0d7d7990453bc616ce3636c807b/Mejiro-Thin.ttf?raw=1"
+    }
+}
