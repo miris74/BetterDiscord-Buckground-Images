@@ -178,7 +178,7 @@
             "#f44444"
         ],
         "STATUS_DANGER_TEXT": [
-            "#FFFFFF"
+            "#000000"
         ],
         "POLLS_NORMAL_FILL_HOVER": [
             "#1c181f"
