@@ -1,10 +1,10 @@
 {
-    "name": "RosieDark",
-    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
+    "name": "RosieDark for mirisu",
+    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3 for mirisu edition",
     "version": "1",
     "authors": [
         {
-            "name": "Rairof",
+            "name": "mirisu",
             "id": "807170846497570848"
         }
     ],
@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/miris74/BetterDiscord-Buckground-Images/refs/heads/main/GeRx907bgAAPi4y.jpg",
+        "url": "https://pbs.twimg.com/media/GeRx907bgAAPi4y?format=jpg&name=large",
         "OPACITY": 0
     },
     "plus": {
